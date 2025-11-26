@@ -1,4 +1,4 @@
-# 🔍 PowerShell Self-Study & Lab Repo ⚡
+# 💻 PowerShell Mastery Labs ⚡
 
 ## Welcome to my **PowerShell Self-Study Repository**.  
 This repo contains **personal notes, lab exercises, and example scripts** to build skills from beginner to advanced PowerShell.  
