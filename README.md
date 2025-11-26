@@ -1,14 +1,14 @@
 # 🔍 PowerShell Self-Study & Lab Repo ⚡
 
-Welcome to my **PowerShell Self-Study Repository**.  
+## Welcome to my **PowerShell Self-Study Repository**.  
 This repo contains **personal notes, lab exercises, and example scripts** to build skills from beginner to advanced PowerShell.  
 Everything is structured for **hands-on learning** and **practical use**.
 
-**Study Advice:**  
-- 🛠️ Learn by doing — experiment and run commands.  
-- 🏗️ Start simple and progress to advanced scripts.  
-- 📝 Document useful commands and concepts.  
-- 💡 Use lab exercises to reinforce learning.
+## **Study Advice:**  
+> 🛠️ Learn by doing — experiment and run commands.  
+> 🏗️ Start simple and progress to advanced scripts.  
+> 📝 Document useful commands and concepts.  
+> 💡 Use lab exercises to reinforce learning.
 
 ---
 
