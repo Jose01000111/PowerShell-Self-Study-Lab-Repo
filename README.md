@@ -12,6 +12,18 @@ Everything is structured for **hands-on learning** and **practical use**.
 
 ---
 
+Welcome to my **PowerShell Self-Study Repository**.  
+This repo contains **personal notes and lab exercises** to build skills from beginner to advanced PowerShell.  
+Everything is structured for **hands-on learning** and **practical use**.
+
+**Study Advice:**  
+- 🛠️ Learn by doing — experiment and run commands.  
+- 🏗️ Start simple and progress to advanced scripts.  
+- 📝 Document useful commands and concepts.  
+- 💡 Use lab exercises to reinforce learning.
+
+---
+
 ## 1.0 PowerShell Basics (Beginner) 🐣
 
 | Objective | Description | Notes | Labbing | File |
@@ -76,5 +88,4 @@ Everything is structured for **hands-on learning** and **practical use**.
 | ⚙️ Process & Service Management | Manage processes and services | Process & Service Management Notes | Process & Service Management Lab | `ProcessServiceLab.ps1` |
 | 📈 Event Logs & Monitoring | Monitor system events | Event Logs & Monitoring Notes | Event Logs & Monitoring Lab | `EventLogsLab.ps1` |
 | 📅 Scheduled Reporting | Automate tasks & reporting | Scheduled Reporting Notes | Scheduled Reporting Lab | `ScheduledTasksLab.ps1` |
-
 
